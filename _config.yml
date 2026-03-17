@@ -1,7 +1,7 @@
 # Setup
-title: TEST 한글
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Hot Pack Make Me Happy
+description: Data scientist growth blog
+url: https://amitis94.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -33,10 +33,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: B.K.JOO
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/amitis94
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: B.K.JOO
+  url: https://github.com/amitis94
+  email: wnqhrnr4137@gmail.com
